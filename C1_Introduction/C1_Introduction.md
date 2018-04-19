@@ -8,7 +8,7 @@
 
 网络数据从发出到接受的通信层次如下所示。
 
-![net_communicate_levels](img/net_communicate_levels.png)
+![net_communicate_levels](img/net_communicate_levels.svg)
 
 注:特别地，原始套接字(raw socket)可以绕过传输层，直接和网络层通信。
 
